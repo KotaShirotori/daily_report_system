@@ -18,8 +18,8 @@ public class EmployeeValidator {
         }
 
         String name_error = _validateName(e.getName());
-        if(!code_error.equals("")) {
-            errors.add(code_error);
+        if(!name_error.equals("")) {
+            errors.add(name_error);
         }
 
 
