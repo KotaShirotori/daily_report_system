@@ -18,11 +18,8 @@ body {
 }
 
 h1 {
-    width: 94%;
-    margin-top: 15px;
-    padding-left: 3%;
     font-size: 24px;
-    color: #eeeeee;
+    display: inline;
 }
 
 h2 {
@@ -103,3 +100,34 @@ tr.row0 {
 select {
     height: 30px;
 }
+
+#header_menu {
+    width: 57%;
+    padding-top: 17px;
+    padding-left: 3%;
+    display: inline-block;
+}
+
+#employee_name {
+    color: #cccccc;
+    width: 36%;
+    padding-align: rigth;
+    display: inline-block;
+}
+
+#header_name {
+    color: #cccccc;
+    width: 36%;
+    padding-right: 3%;
+    text-align: right;
+    display: inline-block;
+}
+
+#header a {
+    color: #eeeeee
+}
+
+h1 a {
+    color: #eeeeee;
+}
+
