@@ -15,7 +15,7 @@
                         </tr>
                         <tr>
                             <th>日付</th>
-                            <td>><fmt:formatDate value="${report.report_date}" pattern="yyyy-MM-dd" /></td>
+                            <td><fmt:formatDate value="${report.report_date}" pattern="yyyy-MM-dd" /></td>
                         </tr>
                         <tr>
                             <th>内容</th>

@@ -1,0 +1,131 @@
+[33mcommit 543beb9f3ceefdad21b11566001001600c624c20[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin_report/master[m[33m)[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Nov 5 14:47:10 2020 +0900
+
+    Add Report Update
+
+[33mcommit 10e23021a950ed5ca179933884baf299c31416bd[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Wed Nov 4 23:07:47 2020 +0900
+
+    Add Report edit
+
+[33mcommit e22e8c6e7807dec9f0e890fdc510d3c0385d8806[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Wed Nov 4 22:03:00 2020 +0900
+
+    Add Report show
+
+[33mcommit 50802a7b3d0553a114e3512708db87a91b7b7277[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sat Oct 31 00:26:51 2020 +0900
+
+    Add Report create
+
+[33mcommit 965962331c6d01bfca81f3f8c4c11fe9a1efe931[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Fri Oct 30 17:24:10 2020 +0900
+
+    Add Report new
+
+[33mcommit 0634f6fc13f9753f96cebebd26fb23f5da3a5761[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Fri Oct 30 16:00:52 2020 +0900
+
+    Add Report index
+
+[33mcommit 5ba13b2a85d241bd11bba88fb472bd34dddfdce9[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 29 15:34:56 2020 +0900
+
+    Add Report class
+
+[33mcommit ba79f6115f60bb0722fe68575cf8739bb56e920f[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 29 14:41:46 2020 +0900
+
+    Add login /logout link
+
+[33mcommit 451d6f0fd80996b415296b7fcae58ee7c0ddad3d[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Wed Oct 28 00:52:49 2020 +0900
+
+    Add login / logout
+
+[33mcommit fa0c301e6d946c15dc7ff7f4fb3a2cfebc8fa9cc[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Tue Oct 27 00:55:38 2020 +0900
+
+    Add Employee destroy
+
+[33mcommit e4c29d84339f9145a96cba882ba4a44e146be33b[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Mon Oct 26 17:07:23 2020 +0900
+
+    Add Employee update
+
+[33mcommit 684c7af5c02370d3f28d13b1bb2582b41ef7940c[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sun Oct 25 16:33:51 2020 +0900
+
+    Add Employee edit
+
+[33mcommit 465bdec3d100a87ffb51226b9f8530c2f805028a[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sun Oct 25 15:28:02 2020 +0900
+
+    Add Employee new
+
+[33mcommit 48c9240f012bbdc3dfa91a93780ed2203441b587[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sat Oct 24 22:53:07 2020 +0900
+
+    Add Employee create
+
+[33mcommit 20a0c40550922bce6db9de99a21cf6d4f8014c52[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sat Oct 24 21:24:44 2020 +0900
+
+    Add password encryption
+
+[33mcommit fb8484cd631ebf5c14b14b85b6dfbf70c372a42f[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sat Oct 24 16:19:34 2020 +0900
+
+    Add Employee new
+
+[33mcommit eabe6a5de60735c816146e1b19c313eb45f8b693[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Sat Oct 24 14:49:38 2020 +0900
+
+    Add Employee new
+
+[33mcommit 53581ece8783b1f7613931ed619571c787d880ca[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 22 23:32:52 2020 +0900
+
+    Add Employee class
+
+[33mcommit 880fae047e7bd3a0642a75f907d00dd00ef215a8[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 22 16:54:00 2020 +0900
+
+    Add database files
+
+[33mcommit 3d17e54de200b333768914a5a39bc68e56b0378d[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 22 16:25:49 2020 +0900
+
+    Add TopPage and EncodingFilter
+
+[33mcommit ee01202759a7a7fc161f2518ad7f021512314a0b[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 22 15:37:31 2020 +0900
+
+    Add pom.xml
+
+[33mcommit e95e51c765ea378498dfa3f1db079e3c6cadb469[m
+Author: kota.shirotori <newbansoukou81@gmail.com>
+Date:   Thu Oct 22 15:30:28 2020 +0900
+
+    Initial commit
