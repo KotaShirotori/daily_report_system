@@ -8,7 +8,7 @@
                 <c:out value="${flush}"></c:out>
             </div>
         </c:if>
-        <h2>日報　一覧</h2>
+        <h2>日報　一覧</h2>&nbsp;&nbsp;<p><a href="<c:url value='/follow/index' />">フォローした従業員の日報一覧</a></p>
         <table id="report_list">
             <tbody>
                 <tr>

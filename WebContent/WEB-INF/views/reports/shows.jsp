@@ -5,8 +5,7 @@
     <c:param name="content">
         <c:choose>
             <c:when test="${report != null}">
-                <h2>日報　詳細ページ</h2>
-
+                <h2>日報　詳細ページ</h2>&nbsp;&nbsp;<div class="follow"><a href="<c:url value='/follow/add?id=${report.id}' />">フォローする</a></div> <div class="follow"><a href="<c:url value='/follow/remove?id=${report.id}' />">フォローを外す</a></div>
                 <table>
                     <tbody>
                         <tr>
